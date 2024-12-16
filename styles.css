@@ -1,0 +1,36 @@
+@font-face{
+  font-family: monospace;
+}
+body{
+    font-family: Arial, sans-serif;
+    background-color: #DCDCDC;
+}
+h1{
+    font-weight: bold;
+    text-align: center;
+    margin-top: auto;
+    font-family: monospace;
+  }
+  h2{
+    color: #653399;
+    font-weight: bold;
+    text-align: center;
+  }
+  td, tr{
+    border-bottom: 1px solid #c877f1;
+  }
+  .tableOne, .tableTwo{
+    margin-left: auto;
+    margin-right: auto;
+    width: 650px;
+    height: auto;
+    border: solid 2px #9932CC;
+  }
+  span{
+    background-color: #F5F5DB;
+  }
+  th{
+    background-color: #DDA0DC;
+    color: black;
+    font-weight: bold;
+  }
